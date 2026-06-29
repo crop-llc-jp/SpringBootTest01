@@ -4,7 +4,7 @@
         return (
             <React.Fragment>
                 <div className="title-row">
-                    <h1>一覧表示画面テーブル</h1>
+                    <h1>一覧表示画面</h1>
                     <div className="actions">
                         <button
                             type="button"
